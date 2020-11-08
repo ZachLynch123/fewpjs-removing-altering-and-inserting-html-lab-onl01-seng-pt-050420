@@ -1,2 +1,2 @@
 // Write your code here!
-let main = document.qu
+let main = document.querySelector('main')
