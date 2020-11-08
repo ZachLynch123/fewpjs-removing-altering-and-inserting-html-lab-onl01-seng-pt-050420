@@ -2,6 +2,7 @@
 document.querySelector('main').remove();
 
 let newHeader  = document.createElement("h1");
+console.log(newHeader)
 document.body.appendChild(newHeader)
 
 newHeader= document.querySelector("h1#victory");
